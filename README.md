@@ -4,10 +4,10 @@ A real-time voice assistant built with a Speech-to-Text → GPT → Text-to-Spee
 
 ## Features
 
-- **Real-time voice pipeline** — continuous STT → LLM → TTS loop for natural conversation
-- **Low latency** — sub-2-second average response time, benchmarked across 150+ prompts
-- **Robust error handling** — async task management with structured recovery for API failures
-- **Configurable agent** — driven by ElevenLabs conversational AI with customizable voice and persona
+- **Real-time voice pipeline**: continuous STT → LLM → TTS loop for natural conversation
+- **Low latency**: sub-2-second average response time, benchmarked across 150+ prompts
+- **Robust error handling**: async task management with structured recovery for API failures
+- **Configurable agent**: driven by ElevenLabs conversational AI with customizable voice and persona
 
 ## Tech Stack
 
